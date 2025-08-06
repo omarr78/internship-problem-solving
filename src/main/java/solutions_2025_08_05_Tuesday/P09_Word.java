@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-class Word {
+public class P09_Word {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();

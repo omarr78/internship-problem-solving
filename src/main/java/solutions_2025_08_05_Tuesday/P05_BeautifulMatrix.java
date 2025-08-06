@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-class Beautiful_Matrix {
+public class P05_BeautifulMatrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = 5;

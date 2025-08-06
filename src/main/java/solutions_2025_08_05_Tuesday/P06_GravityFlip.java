@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-class Gravity_Flip {
+public class P06_GravityFlip {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int numberOfColumns = sc.nextInt();

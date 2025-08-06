@@ -1,11 +1,8 @@
 package solutions_2025_08_05_Tuesday;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
-class Police_Recruits {
+public class P13_PoliceRecruits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

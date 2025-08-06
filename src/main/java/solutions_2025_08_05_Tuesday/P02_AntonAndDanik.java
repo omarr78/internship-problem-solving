@@ -1,7 +1,7 @@
 package solutions_2025_08_05_Tuesday;
 import java.util.Scanner;
 
-class Anton_and_Danik {
+public class P02_AntonAndDanik {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;

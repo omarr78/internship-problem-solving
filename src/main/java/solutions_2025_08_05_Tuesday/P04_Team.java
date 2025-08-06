@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-class Team {
+public class P04_Team {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int problems;
