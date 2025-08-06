@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-public class Petya_and_Strings {
+class Petya_and_Strings {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s1 = sc.nextLine().toLowerCase();

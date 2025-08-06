@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-public class Boy_or_Girl {
+class Boy_or_Girl {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String username = sc.nextLine();

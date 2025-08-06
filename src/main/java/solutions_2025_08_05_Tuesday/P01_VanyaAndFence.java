@@ -2,7 +2,7 @@ package solutions_2025_08_05_Tuesday;
 
 import java.util.Scanner;
 
-public class Vanya_and_Fence {
+class Vanya_and_Fence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n,fenceHeight,sum=0;
